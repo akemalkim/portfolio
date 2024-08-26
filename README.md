@@ -1,69 +1,73 @@
-# portfolio
-
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Akmal Rozliaiani 👋
 
 ![Profile Banner](https://your-banner-url.com/banner.png)
 
 ## 🚀 About Me
 
-I'm a passionate [Your Profession or Hobby] with experience in [Your Key Skills or Interests]. I enjoy building projects that solve real-world problems and contribute to open-source communities.
+I am a passionate researcher and data analyst currently in my final year of a Bachelor of Science with Honours, majoring in Physics and minoring in Mathematics. My primary areas of interest include climate science, atmospheric physics, and plasma physics. My work is largely focused on analyzing weather data, climate models, and atmospheric measurements. I also have experience with lidar and radar data processing, and I'm working on a personal project related to plasma physics simulation. (TRY TO WORK MORE ON THIS PART)
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, JavaScript, [Other Languages]
-- **Frameworks:** Django, React, [Other Frameworks]
-- **Tools:** Git, Docker, [Other Tools]
-- **Database:** MySQL, PostgreSQL, [Other Databases]
-- **Cloud:** AWS, Azure, [Other Cloud Services]
+- **Programming Languages:** Python AND MATLAB
+- **Data Analysis Tools:** Pandas, NumPy, SciPy, Matplotlib, Seaborn
+- **Statistical Modeling:** Time-Series Analysis, Spatial Data Analysis, Monte Carlo Simulations
+- **Data Visualization:** Matplotlib, Seaborn
+- **Scientific Computing:** MATLAB, NumPy, SciPy
+- **Atmospheric Data Tools:** Lidar, Radar Data Processing, NetCDF
+- **Machine Learning:** Scikit-learn, TensorFlow (for data-driven modeling)
 
-## 🔥 Projects
+## 🔥 Research & Projects
 
-Here are a few highlights of my work:
+Here are a few highlights of my research work:
 
-1. **[Project Name 1]**: [Short description of the project].
-   - **Tech Stack**: Python, Flask, MySQL
-   - [GitHub Repository Link](https://github.com/username/project1)
-   - [Live Demo](https://project1-live-demo.com)
+1. **Climate Model Data Analysis**
+   - **Objective:** Analyzing global climate model outputs to study the impact of climate change on atmospheric circulation patterns.
+   - **Methods:** Time-series analysis, anomaly detection, and spatial data visualization.
+   - **Tools:** Python, Pandas, NetCDF4, Matplotlib
+   - [GitHub Repository Link](https://github.com/username/climate-model-analysis)
 
-2. **[Project Name 2]**: [Short description of the project].
-   - **Tech Stack**: JavaScript, React, Node.js
-   - [GitHub Repository Link](https://github.com/username/project2)
-   - [Live Demo](https://project2-live-demo.com)
+2. **Lidar and Radar Data Processing**
+   - **Objective:** Processing and analyzing atmospheric data collected via lidar and radar to understand aerosol concentrations and cloud properties.
+   - **Techniques:** Signal processing, data filtering, and trend analysis.
+   - **Tools:** MATLAB, Python, Lidar and Radar data processing libraries
+   - [GitHub Repository Link](https://github.com/username/lidar-radar-processing)
 
-3. **[Project Name 3]**: [Short description of the project].
-   - **Tech Stack**: C++, OpenCV
-   - [GitHub Repository Link](https://github.com/username/project3)
-   - [Live Demo](https://project3-live-demo.com)
+3. **Plasma Physics Simulation**
+   - **Objective:** Simulating plasma behavior to explore interactions between particles and electromagnetic fields.
+   - **Focus:** Understanding the complex interplay of quantum mechanics and electromagnetism in plasma.
+   - **Tools:** Python, SciPy, Custom simulation software
+   - [GitHub Repository Link](https://github.com/username/plasma-physics-simulation)
 
-> Check out more of my projects [here](https://github.com/username?tab=repositories).
+> Explore more of my research and projects [here](https://github.com/username?tab=repositories).
 
 ## 💼 Experience
 
-- **[Job Title]** at [Company Name] (Year - Year)
-  - Worked on [Key Responsibilities/Projects].
-  - Achieved [Key Achievements/Outcomes].
+- **Research Assistant** at [University/Institution Name] (Year - Year)
+  - Assisted in the analysis of climate model data, contributing to ongoing research projects in climate science.
+  - Developed Python scripts for automating data processing tasks and visualizing large datasets.
 
-- **[Job Title]** at [Company Name] (Year - Year)
-  - Worked on [Key Responsibilities/Projects].
-  - Achieved [Key Achievements/Outcomes].
+- **Undergraduate Researcher** at [University/Institution Name] (Year - Year)
+  - Conducted research on atmospheric physics, focusing on the processing and analysis of lidar and radar data.
+  - Presented findings at departmental seminars and contributed to a published paper.
 
 ## 🎓 Education
 
-- **[Degree]** in [Field of Study], [University Name] (Year - Year)
-- **[Certification]**: [Certification Name], [Issuing Organization] (Year)
+- **Bachelor of Science (Honours) in Physics**, Minor in Mathematics
+  - University of Canterbury, December 2024
+  - Relevant Coursework: Atmospheric Physics, Quantum Mechanics, Statistical Mechanics, Electromagnetism
 
 ## 🏆 Achievements
 
-- **[Award/Recognition]**: [Details about the award or recognition].
-- **[Open Source Contribution]**: Contributed to [Project Name], focusing on [Contribution Details].
+- **[Award/Recognition]**: Recognized for outstanding performance in [Specific Area/Subject] at [Your University].
+- **Open Source Contribution**: Contributed to [Project Name], focusing on [Contribution Details].
 
 ## 📫 Contact Me
 
-- **Email**: [your.email@example.com]
+- **Email**: akmalhakim741@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/username)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **ResearchGate**: [Your ResearchGate Profile](https://www.researchgate.net/profile/username)
 - **Personal Website**: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
-Feel free to explore my work, and let's connect! 🚀
+Feel free to explore my research, and let's connect! 🚀
