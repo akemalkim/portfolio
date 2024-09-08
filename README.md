@@ -4,7 +4,11 @@
 
 ## 🚀 About Me
 
-I am a passionate researcher and data analyst currently in my final year of a Bachelor of Science with Honours, majoring in Physics and minoring in Mathematics. My primary areas of interest include climate science, atmospheric physics, and plasma physics. My work is largely focused on analyzing weather data, climate models, and atmospheric measurements. I also have experience with lidar and radar data processing, and I'm working on a personal project related to plasma physics simulation. (TRY TO WORK MORE ON THIS PART)
+I am currently pursuing a BSc with Honours in Physics, complemented by a minor in Mathematics. My goal is to contribute meaningfully to the scientific community and leverage my knowledge in physics to develop solutions that add value to society. I am keen on exploring various research topics that may guide my future pursuits and am actively seeking opportunities to enhance my research and analytical skills. Concurrently, I aim to improve my communication abilities and gain experience in collaborative environments.
+
+I am particularly passionate about advancing clean energy solutions. My research in atmospheric and climate sciences has underscored the critical importance of reducing emissions through clean energy. I have one year of experience working on research projects that required critical thinking and data analytics skills to address complex problems and create data visualizations that provide valuable insights for researchers. Additionally, I have assisted my professor in producing a peer-reviewed paper, where my role primarily involved data processing using cutting-edge software. Details of this project are outlined in the section below.
+
+Outside of my academic pursuits, I enjoy reading self-help books, which I believe contribute to personal growth. I am also an avid badminton player and cyclist, and I often take long café rides to clear my mind and rejuvenate.
 
 ## 🛠️ Skills & Tools
 
@@ -14,7 +18,6 @@ I am a passionate researcher and data analyst currently in my final year of a Ba
 - **Data Visualization:** Matplotlib, Seaborn
 - **Scientific Computing:** MATLAB, NumPy, SciPy
 - **Atmospheric Data Tools:** Lidar, Radar Data Processing, NetCDF
-- **Machine Learning:** Scikit-learn, TensorFlow (for data-driven modeling)
 
 ## 🔥 Research & Projects
 
