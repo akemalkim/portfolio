@@ -29,17 +29,17 @@ Here are a few highlights of my research work:
    - **Tools:** Python, Pandas, NetCDF4, Matplotlib, scipy, seaborn, ALCF software
    - [GitHub Repository Link](https://github.com/akemalkim/cloud-snowfall-antarctica)
 
-2. **Doppler lidar data processing**
+2. **Doppler lidar data processing to estimate MIxed Layer Height (MLH)**
    - **Objective:** Processing and analyzing atmospheric data collected via Doppler lidar to estimate the mixed layer height based on this data.
    - **Techniques:** Signal processing, data filtering, trend analysis, time-series analysis
    - **Tools:** Python, Matplotlib
-   - [GitHub Repository Link](https://github.com/username/lidar-radar-processing)
+   - [GitHub Repository Link]((https://github.com/akemalkim/MLH-estimates))
 
 3. **Planetary Motion Simulation**
    - **Objective:** Simulating the motion of planets orbiting the sun (this project was done during my free time).
    - **Focus:** Understanding the paths that planets take in their orbits and how fast each planet orbits relative to one another.
    - **Tools:** Python, SciPy, pygame
-   - [GitHub Repository Link](https://github.com/username/plasma-physics-simulation)
+   - [GitHub Repository Link](https://github.com/akemalkim/planetary-motion))
 
 
 ## 💼 Experience
