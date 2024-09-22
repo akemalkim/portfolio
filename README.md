@@ -27,7 +27,7 @@ Here are a few highlights of my research work:
    - **Objective:** Analyzing ceilometer lidar (CL51) and radar data (MRR2) to build a robust understanding of Antarctica's climate, specifically regarding clouds and snow precipitation. In this project, we will study how likely supercooled liquid water clouds are to produce heavy snowfall.
    - **Methods:** Time-series analysis, Signal processing, data filtering,, kernel density estimates, Self Organising Map (SOM) and Empirical Orthogonal Function (EOF).
    - **Tools:** Python, Pandas, NetCDF4, Matplotlib, scipy, seaborn, ALCF software
-   - [GitHub Repository Link](https://github.com/username/climate-model-analysis)
+   - [GitHub Repository Link](https://github.com/akemalkim/cloud-snowfall-antarctica)
 
 2. **Doppler lidar data processing**
    - **Objective:** Processing and analyzing atmospheric data collected via Doppler lidar to estimate the mixed layer height based on this data.
@@ -38,12 +38,6 @@ Here are a few highlights of my research work:
 3. **Planetary Motion Simulation**
    - **Objective:** Simulating the motion of planets orbiting the sun (this project was done during my free time).
    - **Focus:** Understanding the paths that planets take in their orbits and how fast each planet orbits relative to one another.
-   - **Tools:** Python, SciPy, pygame
-   - [GitHub Repository Link](https://github.com/username/plasma-physics-simulation)
-  
-4. **Plasma Physics Simulation**
-   - **Objective:** Simulating plasma behavior to explore interactions between particles and electromagnetic fields (this project was done during my free time).
-   - **Focus:**  Understanding the complex interplay of quantum mechanics and electromagnetism in plasma. At this stage, I am focusing on the interactions between charged particles, although the simulation is still incomplete.
    - **Tools:** Python, SciPy, pygame
    - [GitHub Repository Link](https://github.com/username/plasma-physics-simulation)
 
