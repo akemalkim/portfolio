@@ -33,7 +33,7 @@ Here are a few highlights of my research work:
    - **Objective:** Processing and analyzing atmospheric data collected via Doppler lidar to estimate the mixed layer height based on this data.
    - **Techniques:** Signal processing, data filtering, trend analysis, time-series analysis
    - **Tools:** Python, Matplotlib
-   - [GitHub Repository Link]((https://github.com/akemalkim/MLH-estimates))
+   - [GitHub Repository Link](https://github.com/akemalkim/MLH-estimates)
 
 3. **Planetary Motion Simulation**
    - **Objective:** Simulating the motion of planets orbiting the sun (this project was done during my free time).
