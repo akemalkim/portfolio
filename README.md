@@ -1,6 +1,6 @@
 # Hi there, I'm Akmal Rozliaiani 👋
 
-![Profile Banner](https://your-banner-url.com/banner.png)
+
 
 ## 🚀 About Me
 
@@ -23,54 +23,56 @@ Outside of my academic pursuits, I enjoy reading self-help books, which I believ
 
 Here are a few highlights of my research work:
 
-1. **Climate Model Data Analysis**
-   - **Objective:** Analyzing global climate model outputs to study the impact of climate change on atmospheric circulation patterns.
-   - **Methods:** Time-series analysis, anomaly detection, and spatial data visualization.
-   - **Tools:** Python, Pandas, NetCDF4, Matplotlib
+1. **Cloud and Snowfall in Antarctica**
+   - **Objective:** Analyzing ceilometer lidar (CL51) and radar data (MRR2) to build a robust understanding of Antarctica's climate, specifically regarding clouds and snow precipitation. In this project, we will study how likely supercooled liquid water clouds are to produce heavy snowfall.
+   - **Methods:** Time-series analysis, Signal processing, data filtering,, kernel density estimates, Self Organising Map (SOM) and Empirical Orthogonal Function (EOF).
+   - **Tools:** Python, Pandas, NetCDF4, Matplotlib, scipy, seaborn, ALCF software
    - [GitHub Repository Link](https://github.com/username/climate-model-analysis)
 
-2. **Lidar and Radar Data Processing**
-   - **Objective:** Processing and analyzing atmospheric data collected via lidar and radar to understand aerosol concentrations and cloud properties.
-   - **Techniques:** Signal processing, data filtering, and trend analysis.
-   - **Tools:** MATLAB, Python, Lidar and Radar data processing libraries
+2. **Doppler lidar data processing**
+   - **Objective:** Processing and analyzing atmospheric data collected via Doppler lidar to estimate the mixed layer height based on this data.
+   - **Techniques:** Signal processing, data filtering, trend analysis, time-series analysis
+   - **Tools:** Python, Matplotlib
    - [GitHub Repository Link](https://github.com/username/lidar-radar-processing)
 
-3. **Plasma Physics Simulation**
-   - **Objective:** Simulating plasma behavior to explore interactions between particles and electromagnetic fields.
-   - **Focus:** Understanding the complex interplay of quantum mechanics and electromagnetism in plasma.
-   - **Tools:** Python, SciPy, Custom simulation software
+3. **Planetary Motion Simulation**
+   - **Objective:** Simulating the motion of planets orbiting the sun (this project was done during my free time).
+   - **Focus:** Understanding the paths that planets take in their orbits and how fast each planet orbits relative to one another.
+   - **Tools:** Python, SciPy, pygame
+   - [GitHub Repository Link](https://github.com/username/plasma-physics-simulation)
+  
+4. **Plasma Physics Simulation**
+   - **Objective:** Simulating plasma behavior to explore interactions between particles and electromagnetic fields (this project was done during my free time).
+   - **Focus:**  Understanding the complex interplay of quantum mechanics and electromagnetism in plasma. At this stage, I am focusing on the interactions between charged particles, although the simulation is still incomplete.
+   - **Tools:** Python, SciPy, pygame
    - [GitHub Repository Link](https://github.com/username/plasma-physics-simulation)
 
-> Explore more of my research and projects [here](https://github.com/username?tab=repositories).
 
 ## 💼 Experience
 
-- **Research Assistant** at [University/Institution Name] (Year - Year)
-  - Assisted in the analysis of climate model data, contributing to ongoing research projects in climate science.
-  - Developed Python scripts for automating data processing tasks and visualizing large datasets.
+- **Research Assistant** at [University of Canterbury] (2024)
+  - Assisted in analyzing ceilometer lidar data in Antarctica, contributing to ongoing climate science research projects.
+  - Developed Python scripts for processing tasks and visualizing large datasets.
+  - Calibrated long-term data sets for accuracy.
 
-- **Undergraduate Researcher** at [University/Institution Name] (Year - Year)
-  - Conducted research on atmospheric physics, focusing on the processing and analysis of lidar and radar data.
-  - Presented findings at departmental seminars and contributed to a published paper.
+- **Undergraduate Research** at [University of Canterbury] (2024)
+  - Conducted research in atmospheric physics, focusing on the analysis of lidar and radar data to study cloud formation and snowfall in Antarctica as part of my honours year research.
 
 ## 🎓 Education
 
 - **Bachelor of Science (Honours) in Physics**, Minor in Mathematics
-  - University of Canterbury, December 2024
+  - University of Canterbury, November 2024
   - Relevant Coursework: Atmospheric Physics, Quantum Mechanics, Statistical Mechanics, Electromagnetism
 
-## 🏆 Achievements
-
-- **[Award/Recognition]**: Recognized for outstanding performance in [Specific Area/Subject] at [Your University].
-- **Open Source Contribution**: Contributed to [Project Name], focusing on [Contribution Details].
+- **Matriculation Certificate**
+  - Pahang Engineering Matriculation College, 2020
+  - A Malaysian pre-university qualification with subject allocated are Mathematics, Physics, Chemistry and Basic Engineering
 
 ## 📫 Contact Me
 
 - **Email**: akmalhakim741@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/username)
-- **ResearchGate**: [Your ResearchGate Profile](https://www.researchgate.net/profile/username)
-- **Personal Website**: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
-Feel free to explore my research, and let's connect! 🚀
+Feel free to explore my project, and let's connect! 🚀
