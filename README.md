@@ -4,11 +4,11 @@
 
 ## 🚀 About Me
 
-I am currently pursuing a BSc with Honours in Physics, complemented by a minor in Mathematics. My goal is to contribute meaningfully to the scientific community and leverage my knowledge in physics to develop solutions that add value to society. I am keen on exploring various research topics that may guide my future pursuits and am actively seeking opportunities to enhance my research and analytical skills. Concurrently, I aim to improve my communication abilities and gain experience in collaborative environments.
+I have completed a Bachelor of Science with Honours in Physics, with a minor in Mathematics.  I am dedicated to contributing meaningfully to the scientific community and applying my knowledge of physics to develop solutions that create tangible value for society. I am passionate about exploring diverse research topics to guide my future endeavors and am actively seeking opportunities to further strengthen my research, analytical, and communication skills. I am also committed to gaining additional experience in collaborative, interdisciplinary environments.
 
-I am particularly passionate about advancing clean energy solutions. My research in atmospheric and climate sciences has underscored the critical importance of reducing emissions through clean energy. I have one year of experience working on research projects that required critical thinking and data analytics skills to address complex problems and create data visualizations that provide valuable insights for researchers. Additionally, I have assisted my professor in producing a peer-reviewed paper, where my role primarily involved data processing using cutting-edge software. Details of this project are outlined in the section below.
+I am passionate about contributing to solutions that address environmental challenges. Through my research in atmospheric and climate sciences, I have developed a deep appreciation for the critical importance of reducing emissions through clean energy technologies. I possess one year of experience working on research projects that demanded critical thinking and data analytics to address complex problems and develop data visualizations that offer valuable insights to the research community. Additionally, I contributed to the production of a peer-reviewed publication by assisting my professor, primarily in data processing using advanced software tools. Further details regarding this project are provided below.
 
-Outside of my academic pursuits, I enjoy reading self-help books, which I believe contribute to personal growth. I am also an avid badminton player and cyclist, and I often take long café rides to clear my mind and rejuvenate.
+Beyond my academic pursuits, I am an avid reader of self-improvement literature, which I believe fosters personal growth. I also enjoy playing badminton and cycling, often embarking on long café rides to recharge and maintain a healthy work-life balance.
 
 ## 🛠️ Skills & Tools
 
@@ -48,6 +48,7 @@ Here are a few highlights of my research work:
   - Assisted in analyzing ceilometer lidar data in Antarctica, contributing to ongoing climate science research projects.
   - Developed Python scripts for processing tasks and visualizing large datasets.
   - Calibrated long-term data sets for accuracy.
+  - This collaboration resulted in a peer-reviewed publication, in which I am listed as a co-author. The paper can be found [here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD041754).
 
 - **Undergraduate Research** at [University of Canterbury] (2024)
   - Conducted research in atmospheric physics, focusing on the analysis of lidar and radar data to study cloud formation and snowfall in Antarctica as part of my honours year research.
@@ -65,7 +66,7 @@ Here are a few highlights of my research work:
 ## 📫 Contact Me
 
 - **Email**: akmalhakim741@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/username)
+- **LinkedIn**: [Profile](www.linkedin.com/in/muhammad-akmal-hakim-rozliaiani)
 
 ---
 
